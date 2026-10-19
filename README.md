@@ -1,94 +1,30 @@
-<div align="center">
+# About Me
 
-# Hi, I'm Rosa 👋
+[🏠 Home](../README.md) · **About** · [SQL](../SQL/README.md)
 
-**Cybersecurity engineer in training · building data skills for security operations**
+## Hi there! 👋 I'm Rosa
 
-[**🗄️ SQL**](SQL/README.md) &nbsp;·&nbsp; [**📊 Power BI**](PowerBI/README.md) &nbsp;·&nbsp; [**🐍 Python**](Python/README.md)
+I am currently focused on learning and transitioning into the field of **cybersecurity**. My goal is to build a strong technical foundation while developing practical skills that align with real-world security operations and defensive strategies.
 
-</div>
+## 🚀 My Current Learning Path
 
----
-
-## About me
-I'm transitioning into cybersecurity and building the technical foundation for security operations and defensive strategy. My learning path:
-
-1. **SQL** for databases and data analysis ← *where most of my work is so far*
-2. **Python** for automation, scripting and security tools
-3. **Power BI** for turning data into dashboards people can act on
-
-This repo is my portfolio. Every section has its own pages, so you can jump straight to what you want to see.
-
-## 🧭 Portfolio navigator
-
-| Section | What's inside | Status |
-|---|---|---|
-| [🗄️ **SQL**](SQL/README.md) | 7 topic pages with cleaned-up queries, notes and fixed mistakes | 🟢 Active |
-| [🐍 **Python**](Python/README.md) | The same 7 topics re-solved with pandas | 🟡 Starter pages |
-| [📊 **Power BI**](PowerBI/README.md) | The same 7 topics in DAX and Power Query | 🟡 Starter pages |
-
-### SQL topics
-| # | Topic | Skills |
-|---|---|---|
-| 00 | [Setup](SQL/00-Setup/README.md) | Practice table, dialect notes |
-| 01 | [Filtering and Sorting](SQL/01-Filtering-and-Sorting/README.md) | `WHERE` `ORDER BY` `TOP` `BETWEEN` `IN` |
-| 02 | [Aggregates, GROUP BY, HAVING](SQL/02-Aggregates-GroupBy-Having/README.md) | `COUNT` `SUM` `AVG` `MIN` `MAX` |
-| 03 | [Data Modification](SQL/03-Data-Modification/README.md) | `INSERT` `UPDATE` `DELETE` |
-| 04 | [Subqueries](SQL/04-Subqueries/README.md) | Scalar and correlated subqueries |
-| 05 | [Data Migration](SQL/05-Data-Migration/README.md) | `INSERT INTO ... SELECT` |
-| 06 | [CASE Logic](SQL/06-CASE-Logic/README.md) | `CASE WHEN` with aggregates |
-| 07 | [Joins](SQL/07-Joins/README.md) | `INNER JOIN` with `GROUP BY` |
-
-### The same topics in Python and Power BI
-| # | Topic | 🐍 Python | 📊 Power BI |
+| Step | Focus | Why it matters for security | Status |
 |---|---|---|---|
-| 01 | Filtering and Sorting | [pandas](Python/01-Filtering-and-Sorting/README.md) | [DAX](PowerBI/01-Filtering-and-Sorting/README.md) |
-| 02 | Aggregates, GroupBy | [pandas](Python/02-Aggregates-GroupBy-Having/README.md) | [DAX](PowerBI/02-Aggregates-GroupBy-Having/README.md) |
-| 03 | Data Modification | [pandas](Python/03-Data-Modification/README.md) | [Power Query](PowerBI/03-Data-Modification/README.md) |
-| 04 | Subqueries | [pandas](Python/04-Subqueries/README.md) | [DAX](PowerBI/04-Subqueries/README.md) |
-| 05 | Data Migration | [pandas](Python/05-Data-Migration/README.md) | [Power Query](PowerBI/05-Data-Migration/README.md) |
-| 06 | CASE Logic | [pandas](Python/06-CASE-Logic/README.md) | [DAX](PowerBI/06-CASE-Logic/README.md) |
-| 07 | Joins | [pandas](Python/07-Joins/README.md) | [Relationships](PowerBI/07-Joins/README.md) |
+| 1 | 📊 **SQL** | Databases and data analysis | 🟢 In progress ([see my work](../SQL/README.md)) |
+| 2 | 🐍 **Python** | Automation, scripting and security-related tools | 🔜 Up next |
 
-## 🛠️ Skills
+## 🎓 Certifications
 
-| Area | Tools |
-|---|---|
-| Databases | SQL Server (T-SQL), SQLite |
-| Analysis | SQL, pandas *(learning)* |
-| Visualization | Power BI, DAX *(learning)* |
-| Scripting | Python *(learning)* |
-| Focus | Cybersecurity, security operations, defensive strategy |
+You can see my certifications on Credly: [credly.com/users/rosa-chen-kon](https://www.credly.com/users/rosa-chen-kon)
 
-## 📈 How I practice
-- Daily practice questions (ChatGPT-generated, Codecademy, and a study group)
-- I write the answer myself first, then compare it to the correct one
-- I keep my **mistakes and fixes** in each page, because that's where the learning happens
-- My raw, unedited working file is in [`SQL/_Original-Practice-Log`](SQL/_Original-Practice-Log/README.md)
+These certifications reflect my commitment to continuous learning and professional development in the technology and security space.
 
-## 🗂️ Repository layout
+## 🗂️ What you'll find in this portfolio
 
-```
-.
-├── README.md
-├── SQL/
-│   ├── 00-Setup/
-│   ├── 01-Filtering-and-Sorting/
-│   ├── 02-Aggregates-GroupBy-Having/
-│   ├── 03-Data-Modification/
-│   ├── 04-Subqueries/
-│   ├── 05-Data-Migration/
-│   ├── 06-CASE-Logic/
-│   ├── 07-Joins/
-│   └── _Original-Practice-Log/
-├── PowerBI/        (same 7 topics + data/)
-└── Python/         (same 7 topics + data/)
-```
-
-## 🔗 Earlier repositories
-- [SQL-Challenges---Basics](https://github.com/RC12317/SQL-Challenges---Basics)
-- [SQL-Baseline---Using-Basic-Syntaxes](https://github.com/RC12317/SQL-Baseline---Using-Basic-Syntaxes)
+- **[SQL practice](../SQL/README.md):** cleaned-up queries from my daily practice, with notes on what I learned and the mistakes I fixed along the way.
+- **[Original practice log](../SQL/_Original-Practice-Log/README.md):** my raw, unedited working file, if you'd like to see how my understanding developed.
 
 ## 📬 Connect
+
 - GitHub: [@RC12317](https://github.com/RC12317)
-- Certifications: *add your Credly link here*
+- Credly: [rosa-chen-kon](https://www.credly.com/users/rosa-chen-kon)
